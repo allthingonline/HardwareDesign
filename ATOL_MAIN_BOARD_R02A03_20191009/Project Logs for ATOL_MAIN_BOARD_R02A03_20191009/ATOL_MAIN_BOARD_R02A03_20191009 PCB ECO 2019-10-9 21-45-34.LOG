@@ -1,0 +1,12 @@
+Added Component: Designator=J10(DB2.54(8x1))
+Added Pin To Net: NetName=4VDC Pin=J10-1
+Added Pin To Net: NetName=4VDC Pin=J10-2
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=3.3VDC Pin=J10-4
+Added Pin To Net: NetName=3.3VDC Pin=J10-5
+Added Pin To Net: NetName=GND Pin=J10-6
+Added Pin To Net: NetName=5VDC Pin=J10-7
+Added Pin To Net: NetName=5VDC Pin=J10-8
+Change Class Name : Old Net Name=ATOL_MAIN_BOARD_R02A02_20191003 New Net Name=ATOL_MAIN_BOARD_R02A03_20191009
+Added Member To Class: ClassName=ATOL_MAIN_BOARD_R02A03_20191009 Member=Component J10 2.54(8x1)
+Added Room: Name=ATOL_MAIN_BOARD_R02A03_20191009
